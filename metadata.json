@@ -1,0 +1,6 @@
+{
+  "name": "Tabunganku",
+  "description": "Celengan digital dan asisten akademik mahasiswa Teknik Informatika Universitas Kuningan (UNIKU) semester 5. Dilengkapi manajemen tabungan, jadwal kuliah, tugas, target biaya, dan KTM digital. Dibuat dan dimiliki oleh Muhamad Hafizt.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
